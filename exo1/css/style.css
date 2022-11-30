@@ -111,19 +111,31 @@ background: linear-gradient(221deg, rgba(91,237,77,1) 0%, rgba(253,145,29,1) 94%
 
 /* début exo 05 background-size*/
 .img-8{ 
+    background-image: url("../images/bg_image_petite.jpg");
+    background-size: 60px;
 }
 .img-9{ 
+    background-image: url("../images/bg_image_petite.jpg");
+    background-size:25%;
 }
 .img-10{
+    background-image: url("../images/bg_image_petite.jpg");
+    background-size: 100%;
 }
 .img-11{
+    background-image: url("../images/bg_image_petite.jpg");
 }
 /* fin exo 05 background-size*/
 
 /* début exo 06 background-attachement*/
 .img-12{
+    background-image: url(../images/bg_image_petite.jpg);
+    background-attachment:fixed;
 }
 .img-13{
+    background-image: url(../images/bg_image_petite.jpg);
+    background-attachment:fixed;
+    background-size: 60%;
 }
 /* fin exo 06 background-attachement*/
 
