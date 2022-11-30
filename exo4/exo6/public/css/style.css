@@ -1,0 +1,26 @@
+body{
+    background-color: burlywood;
+    margin: auto;
+}
+
+.mere{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.enfant1{
+    width: 100px;
+    background-color: brown;
+    height: 100px;
+    margin-top: 300px;
+    text-align: center;
+}
+
+.enfant{
+    width: 400px;
+    background-color: brown;
+    margin: 10px;
+    margin-top: 300px;
+    text-align: center;
+}
