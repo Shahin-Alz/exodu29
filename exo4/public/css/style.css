@@ -1,0 +1,11 @@
+.mere{
+    display: flex;
+}
+
+.enfant{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    margin: 5px;
+    text-align: center;
+}
